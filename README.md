@@ -51,6 +51,6 @@ The following was executed in the css:
 
 ## Links
 
-[Github]()
+[Github](https://github.com/rileyale001/alexanderrileyportfolio1)
 
-[Website link]()
+[Website link](https://rileyale001.github.io/alexanderrileyportfolio1/)
